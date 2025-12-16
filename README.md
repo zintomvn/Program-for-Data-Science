@@ -721,6 +721,7 @@ PROGRAM FOR DATA SCIENCE/
 │   ├── data_processing.py   # những hàm xử lý process
 │   ├── visualization.py     # Những hàm vẽ biểu đồ
 │   └── models.py            # Cài đặt mô hình ML
+│   └── img            # chứa ảnh sau khi đo thực nghiệm
 ```
 
 ---
